@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Satchit's Personal Website
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Credits:
+Template Inspired by: Bootstrapmade, edited by Satchit Kulkarni.
